@@ -1,3 +1,5 @@
+package EXTRA;
+
 class Sorting {
     public static void PrintArray(int[] arr){
         for (int j : arr) {

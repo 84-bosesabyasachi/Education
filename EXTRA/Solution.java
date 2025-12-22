@@ -1,3 +1,5 @@
+package EXTRA;
+
 class CoinChange {
     static int minCoins(int[] a, int n) {
         if(n == 0) {

@@ -1,3 +1,5 @@
+package EXTRA;
+
 class B {
     int a=10; //instance variable
     static int b=20; //static variable
